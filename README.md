@@ -26,6 +26,7 @@ O pipeline realiza as seguintes etapas:
 
 ## 📁 Estrutura do projeto
 
+```bash
 dataops-mini-lab/
 ├── data/
 │ ├── raw/ # Dados brutos (entrada)
@@ -34,7 +35,7 @@ dataops-mini-lab/
 ├── docs/ # Documentação
 ├── warehouse/ # Banco DuckDB
 ├── .gitignore
-
+```
 
 ---
 
