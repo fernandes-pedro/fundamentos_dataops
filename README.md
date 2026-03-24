@@ -29,11 +29,11 @@ O pipeline realiza as seguintes etapas:
 ```bash
 dataops-mini-lab/
 ├── data/
-│ ├── raw/ # Dados brutos (entrada)
-│ └── curated/ # Dados tratados (futuro)
-├── ingestion/ # Scripts de ingestão
-├── docs/ # Documentação
-├── warehouse/ # Banco DuckDB
+│ ├── raw/ 
+│ └── curated/ 
+├── ingestion/ 
+├── docs/ 
+├── warehouse/ 
 ├── .gitignore
 ```
 
