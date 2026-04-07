@@ -11,7 +11,7 @@ load_dotenv()
 
 
 @activity.defn
-def generate_csv_activity() -> str:
+async def generate_csv_activity() -> str:
     from app.generate_fake_csv import main as generate_csv_main
 
     generate_csv_main()
@@ -19,7 +19,7 @@ def generate_csv_activity() -> str:
 
 
 @activity.defn
-def load_csv_to_mongodb_activity(csv_path: str) -> str:
+async def load_csv_to_mongodb_activity(csv_path: str) -> str:
     mongodb_uri = os.getenv("MONGODB_URI")
     database_name = os.getenv("MONGODB_DATABASE", "dataops_lab")
     collection_name = os.getenv("MONGODB_COLLECTION", "orders_raw")
@@ -50,7 +50,7 @@ def load_csv_to_mongodb_activity(csv_path: str) -> str:
 
 
 @activity.defn
-def aggregate_orders_activity() -> list[dict]:
+async def aggregate_orders_activity() -> list[dict]:
     mongodb_uri = os.getenv("MONGODB_URI")
     database_name = os.getenv("MONGODB_DATABASE", "dataops_lab")
     collection_name = os.getenv("MONGODB_COLLECTION", "orders_raw")

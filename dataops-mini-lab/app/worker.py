@@ -13,7 +13,11 @@ from app.workflows import OrdersPipelineWorkflow
 
 
 async def main() -> None:
+    print("🔌 Conectando ao Temporal...", flush=True)
+
     client = await Client.connect("localhost:7233")
+
+    print("✅ Conectado ao Temporal!", flush=True)
 
     worker = Worker(
         client,
@@ -26,9 +30,11 @@ async def main() -> None:
         ],
     )
 
-    print("Worker started. Waiting for workflows...")
+    print("🚀 Worker started. Waiting for workflows...", flush=True)
+
     await worker.run()
 
 
 if __name__ == "__main__":
+    print("⚙️ Iniciando worker...", flush=True)
     asyncio.run(main())
