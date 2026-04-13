@@ -1,0 +1,301 @@
+product_id,product_name,category,price
+1,A liberdade de mudar com toda a tranquilidade,Livros,88.51
+2,A possibilidade de ganhar com confiança,Cozinha,36.23
+3,A simplicidade de atingir seus objetivos com força total,Livros,367.54
+4,O direito de inovar simplesmente,Esportes,178.56
+5,A segurança de mudar em estado puro,Eletrônicos,491.57
+6,A liberdade de ganhar simplesmente,Cozinha,114.9
+7,A vantagem de mudar em estado puro,Vestuário,469.38
+8,A certeza de realizar seus sonhos direto da fonte,Cozinha,90.82
+9,A liberdade de avançar sem preocupação,Esportes,142.35
+10,A certeza de mudar com confiança,Eletrônicos,313.51
+11,A vantagem de atingir seus objetivos direto da fonte,Eletrônicos,338.78
+12,O prazer de conseguir com confiança,Eletrônicos,54.68
+13,O prazer de evoluir sem preocupação,Cozinha,73.09
+14,A arte de conseguir mais facilmente,Livros,429.41
+15,A segurança de inovar naturalmente,Eletrônicos,268.07
+16,A liberdade de avançar em estado puro,Livros,128.47
+17,O prazer de concretizar seus projetos com força total,Cozinha,173.39
+18,A vantagem de conseguir direto da fonte,Eletrônicos,180.55
+19,A segurança de realizar seus sonhos simplesmente,Esportes,103.43
+20,O direito de mudar mais facilmente,Eletrônicos,44.96
+21,A simplicidade de atingir seus objetivos de maneira eficaz,Vestuário,125.7
+22,A vantagem de realizar seus sonhos com confiança,Cozinha,303.45
+23,A certeza de conseguir mais facilmente,Vestuário,437.16
+24,O direito de evoluir em estado puro,Livros,53.51
+25,A vantagem de concretizar seus projetos de maneira eficaz,Cozinha,360.83
+26,A liberdade de avançar mais facilmente,Eletrônicos,392.06
+27,A arte de atingir seus objetivos mais rapidamente,Eletrônicos,268.8
+28,O poder de evoluir sem preocupação,Esportes,208.72
+29,A certeza de inovar em estado puro,Cozinha,226.34
+30,A vantagem de concretizar seus projetos mais rapidamente,Livros,23.68
+31,A possibilidade de concretizar seus projetos sem preocupação,Esportes,383.2
+32,A simplicidade de concretizar seus projetos com força total,Eletrônicos,322.14
+33,A simplicidade de atingir seus objetivos direto da fonte,Cozinha,163.61
+34,A possibilidade de atingir seus objetivos com toda a tranquilidade,Livros,447.13
+35,A simplicidade de ganhar naturalmente,Esportes,45.1
+36,O direito de mudar antes de tudo,Livros,485.16
+37,O poder de concretizar seus projetos sem preocupação,Esportes,429.04
+38,A possibilidade de concretizar seus projetos naturalmente,Eletrônicos,346.05
+39,A possibilidade de ganhar direto da fonte,Esportes,249.63
+40,A simplicidade de ganhar com confiança,Esportes,116.15
+41,O prazer de ganhar mais facilmente,Cozinha,20.04
+42,O prazer de avançar direto da fonte,Livros,355.78
+43,O direito de atingir seus objetivos simplesmente,Vestuário,148.61
+44,O conforto de mudar com força total,Esportes,154.74
+45,A possibilidade de concretizar seus projetos simplesmente,Cozinha,284.99
+46,A vantagem de atingir seus objetivos naturalmente,Livros,124.42
+47,A certeza de mudar direto da fonte,Cozinha,397.85
+48,A simplicidade de realizar seus sonhos com confiança,Eletrônicos,346.37
+49,O prazer de evoluir de maneira eficaz,Eletrônicos,277.11
+50,A simplicidade de inovar em estado puro,Vestuário,346.26
+51,O prazer de avançar em estado puro,Esportes,48.21
+52,A possibilidade de ganhar com confiança,Cozinha,229.17
+53,O direito de conseguir simplesmente,Vestuário,16.3
+54,A certeza de mudar naturalmente,Eletrônicos,320.29
+55,O conforto de avançar com confiança,Esportes,174.89
+56,A liberdade de mudar direto da fonte,Vestuário,192.48
+57,O direito de realizar seus sonhos sem preocupação,Cozinha,100.83
+58,A arte de realizar seus sonhos simplesmente,Cozinha,304.9
+59,A segurança de evoluir naturalmente,Vestuário,471.86
+60,O conforto de realizar seus sonhos mais rapidamente,Livros,326.84
+61,A possibilidade de realizar seus sonhos mais rapidamente,Eletrônicos,282.4
+62,O conforto de concretizar seus projetos de maneira eficaz,Cozinha,212.55
+63,O conforto de conseguir direto da fonte,Eletrônicos,435.26
+64,O poder de conseguir simplesmente,Eletrônicos,188.07
+65,A simplicidade de concretizar seus projetos com confiança,Esportes,384.51
+66,A liberdade de realizar seus sonhos com força total,Eletrônicos,241.86
+67,A segurança de atingir seus objetivos mais rapidamente,Esportes,326.61
+68,O poder de inovar simplesmente,Vestuário,93.39
+69,A liberdade de evoluir com toda a tranquilidade,Livros,254.83
+70,O direito de evoluir antes de tudo,Livros,316.56
+71,A vantagem de inovar antes de tudo,Esportes,132.99
+72,A simplicidade de ganhar mais rapidamente,Cozinha,363.19
+73,O prazer de mudar com força total,Cozinha,172.77
+74,A simplicidade de mudar simplesmente,Eletrônicos,405.92
+75,A certeza de evoluir simplesmente,Vestuário,87.43
+76,A segurança de ganhar com confiança,Livros,93.74
+77,A segurança de inovar com toda a tranquilidade,Cozinha,326.71
+78,A arte de ganhar antes de tudo,Esportes,95.61
+79,O direito de ganhar com confiança,Livros,250.12
+80,A simplicidade de ganhar sem preocupação,Vestuário,127.91
+81,O poder de concretizar seus projetos simplesmente,Vestuário,70.29
+82,A certeza de evoluir com toda a tranquilidade,Vestuário,34.07
+83,A vantagem de realizar seus sonhos simplesmente,Livros,176.35
+84,O prazer de inovar de maneira eficaz,Vestuário,305.89
+85,O prazer de inovar mais facilmente,Livros,468.74
+86,O conforto de ganhar de maneira eficaz,Vestuário,173.4
+87,A possibilidade de inovar de maneira eficaz,Livros,43.4
+88,O prazer de concretizar seus projetos em estado puro,Vestuário,174.97
+89,A possibilidade de conseguir em estado puro,Vestuário,67.78
+90,A certeza de ganhar antes de tudo,Vestuário,143.64
+91,O prazer de mudar com confiança,Eletrônicos,185.21
+92,A simplicidade de concretizar seus projetos simplesmente,Vestuário,223.16
+93,A arte de mudar naturalmente,Eletrônicos,37.82
+94,A certeza de realizar seus sonhos com força total,Esportes,181.1
+95,O prazer de avançar mais rapidamente,Eletrônicos,443.96
+96,A segurança de avançar mais facilmente,Livros,363.43
+97,A certeza de realizar seus sonhos antes de tudo,Vestuário,426.51
+98,A simplicidade de concretizar seus projetos direto da fonte,Esportes,169.87
+99,O prazer de inovar simplesmente,Cozinha,80.34
+100,A segurança de ganhar direto da fonte,Livros,75.62
+101,A liberdade de concretizar seus projetos com toda a tranquilidade,Esportes,219.23
+102,A certeza de concretizar seus projetos mais rapidamente,Eletrônicos,458.96
+103,A simplicidade de concretizar seus projetos com confiança,Livros,102.0
+104,O prazer de conseguir sem preocupação,Eletrônicos,180.03
+105,A segurança de evoluir direto da fonte,Cozinha,349.93
+106,A segurança de evoluir direto da fonte,Esportes,477.17
+107,A possibilidade de concretizar seus projetos naturalmente,Eletrônicos,205.32
+108,O prazer de concretizar seus projetos em estado puro,Vestuário,44.16
+109,A liberdade de evoluir com força total,Livros,441.02
+110,O direito de conseguir direto da fonte,Livros,440.21
+111,A simplicidade de evoluir mais rapidamente,Vestuário,329.82
+112,A possibilidade de conseguir naturalmente,Vestuário,455.44
+113,A liberdade de conseguir naturalmente,Esportes,372.64
+114,A vantagem de mudar antes de tudo,Eletrônicos,386.26
+115,A possibilidade de concretizar seus projetos com força total,Eletrônicos,33.31
+116,A simplicidade de inovar simplesmente,Livros,254.52
+117,O prazer de evoluir naturalmente,Cozinha,297.72
+118,A liberdade de inovar sem preocupação,Vestuário,135.52
+119,O poder de avançar com toda a tranquilidade,Cozinha,375.85
+120,O direito de inovar mais rapidamente,Eletrônicos,140.51
+121,O prazer de concretizar seus projetos com toda a tranquilidade,Livros,316.06
+122,A vantagem de ganhar sem preocupação,Esportes,244.54
+123,A certeza de avançar direto da fonte,Eletrônicos,81.16
+124,A possibilidade de concretizar seus projetos com confiança,Esportes,285.66
+125,O conforto de evoluir em estado puro,Esportes,10.67
+126,O conforto de realizar seus sonhos sem preocupação,Cozinha,422.94
+127,A arte de atingir seus objetivos direto da fonte,Eletrônicos,469.62
+128,A simplicidade de realizar seus sonhos direto da fonte,Esportes,32.54
+129,O conforto de evoluir de maneira eficaz,Esportes,437.14
+130,A vantagem de evoluir com toda a tranquilidade,Cozinha,385.11
+131,A simplicidade de evoluir mais facilmente,Esportes,344.5
+132,O prazer de ganhar naturalmente,Vestuário,336.8
+133,A segurança de inovar com toda a tranquilidade,Livros,107.76
+134,O conforto de atingir seus objetivos com força total,Livros,399.83
+135,O prazer de ganhar em estado puro,Cozinha,22.99
+136,A certeza de conseguir mais rapidamente,Eletrônicos,256.33
+137,A arte de evoluir mais facilmente,Livros,285.63
+138,A possibilidade de atingir seus objetivos simplesmente,Livros,28.88
+139,A liberdade de mudar simplesmente,Livros,271.27
+140,A liberdade de inovar antes de tudo,Esportes,39.62
+141,O prazer de concretizar seus projetos em estado puro,Cozinha,438.69
+142,A segurança de mudar sem preocupação,Esportes,308.88
+143,A vantagem de realizar seus sonhos em estado puro,Eletrônicos,34.33
+144,A vantagem de evoluir com confiança,Eletrônicos,366.68
+145,A possibilidade de inovar com confiança,Esportes,47.31
+146,A vantagem de ganhar com força total,Cozinha,350.77
+147,O direito de avançar antes de tudo,Cozinha,278.13
+148,A possibilidade de realizar seus sonhos naturalmente,Vestuário,328.63
+149,O prazer de avançar com confiança,Vestuário,316.75
+150,A liberdade de evoluir com toda a tranquilidade,Livros,350.68
+151,O conforto de atingir seus objetivos direto da fonte,Eletrônicos,24.0
+152,O conforto de inovar com toda a tranquilidade,Cozinha,120.84
+153,A segurança de atingir seus objetivos simplesmente,Eletrônicos,312.39
+154,A arte de inovar simplesmente,Livros,456.67
+155,A simplicidade de concretizar seus projetos mais facilmente,Livros,157.12
+156,O prazer de mudar sem preocupação,Livros,12.67
+157,A liberdade de inovar com força total,Cozinha,21.78
+158,A vantagem de conseguir em estado puro,Eletrônicos,416.5
+159,A certeza de evoluir naturalmente,Eletrônicos,361.76
+160,A segurança de inovar com força total,Vestuário,442.17
+161,O poder de conseguir naturalmente,Livros,350.25
+162,A possibilidade de concretizar seus projetos de maneira eficaz,Esportes,306.96
+163,A vantagem de concretizar seus projetos antes de tudo,Eletrônicos,419.51
+164,O direito de avançar mais facilmente,Cozinha,53.85
+165,A segurança de evoluir sem preocupação,Livros,328.63
+166,A segurança de realizar seus sonhos com força total,Eletrônicos,368.07
+167,A liberdade de atingir seus objetivos mais rapidamente,Livros,56.07
+168,O prazer de evoluir mais rapidamente,Esportes,60.94
+169,A vantagem de inovar simplesmente,Eletrônicos,50.39
+170,O prazer de inovar sem preocupação,Eletrônicos,227.07
+171,A simplicidade de realizar seus sonhos mais facilmente,Eletrônicos,303.44
+172,A vantagem de mudar naturalmente,Eletrônicos,188.4
+173,O prazer de evoluir com toda a tranquilidade,Eletrônicos,135.63
+174,A possibilidade de evoluir naturalmente,Eletrônicos,271.98
+175,A liberdade de atingir seus objetivos com confiança,Esportes,223.71
+176,O direito de atingir seus objetivos antes de tudo,Cozinha,110.7
+177,A segurança de evoluir com confiança,Esportes,208.94
+178,A vantagem de ganhar mais rapidamente,Esportes,18.94
+179,A arte de evoluir naturalmente,Eletrônicos,274.24
+180,A segurança de avançar com confiança,Cozinha,355.09
+181,O prazer de ganhar com toda a tranquilidade,Eletrônicos,492.15
+182,A arte de evoluir mais facilmente,Vestuário,40.96
+183,A vantagem de realizar seus sonhos com toda a tranquilidade,Eletrônicos,118.84
+184,O direito de ganhar de maneira eficaz,Vestuário,196.74
+185,O prazer de concretizar seus projetos com confiança,Eletrônicos,218.38
+186,A segurança de avançar em estado puro,Livros,269.03
+187,A arte de avançar com toda a tranquilidade,Eletrônicos,148.92
+188,A arte de inovar mais rapidamente,Livros,70.74
+189,A possibilidade de realizar seus sonhos naturalmente,Eletrônicos,499.58
+190,O poder de concretizar seus projetos simplesmente,Cozinha,76.42
+191,A certeza de ganhar naturalmente,Vestuário,334.31
+192,O prazer de inovar com força total,Vestuário,208.11
+193,O conforto de concretizar seus projetos sem preocupação,Livros,46.76
+194,O prazer de atingir seus objetivos com confiança,Cozinha,239.24
+195,A simplicidade de concretizar seus projetos com toda a tranquilidade,Eletrônicos,405.73
+196,A possibilidade de atingir seus objetivos com toda a tranquilidade,Eletrônicos,59.84
+197,A liberdade de evoluir naturalmente,Eletrônicos,242.76
+198,O direito de ganhar antes de tudo,Livros,100.14
+199,A vantagem de ganhar com toda a tranquilidade,Vestuário,395.91
+200,A certeza de conseguir em estado puro,Eletrônicos,409.48
+201,A arte de conseguir sem preocupação,Vestuário,134.66
+202,O prazer de atingir seus objetivos direto da fonte,Eletrônicos,251.69
+203,A certeza de inovar direto da fonte,Livros,108.53
+204,A arte de mudar naturalmente,Esportes,219.23
+205,O prazer de inovar em estado puro,Livros,254.64
+206,A simplicidade de realizar seus sonhos com confiança,Eletrônicos,302.41
+207,A liberdade de concretizar seus projetos de maneira eficaz,Livros,295.85
+208,A vantagem de ganhar de maneira eficaz,Eletrônicos,447.11
+209,O prazer de atingir seus objetivos simplesmente,Eletrônicos,61.87
+210,O poder de avançar direto da fonte,Vestuário,40.01
+211,A possibilidade de ganhar antes de tudo,Cozinha,123.51
+212,A vantagem de inovar com força total,Vestuário,446.46
+213,A possibilidade de inovar em estado puro,Esportes,309.36
+214,A simplicidade de evoluir em estado puro,Livros,418.37
+215,A certeza de mudar antes de tudo,Livros,220.07
+216,A segurança de concretizar seus projetos sem preocupação,Vestuário,304.89
+217,A vantagem de atingir seus objetivos em estado puro,Esportes,129.58
+218,A certeza de mudar naturalmente,Livros,15.89
+219,A segurança de inovar sem preocupação,Esportes,253.15
+220,O prazer de conseguir simplesmente,Livros,254.98
+221,A liberdade de realizar seus sonhos simplesmente,Esportes,281.7
+222,O conforto de conseguir de maneira eficaz,Vestuário,247.72
+223,O conforto de realizar seus sonhos simplesmente,Vestuário,338.52
+224,O conforto de evoluir sem preocupação,Livros,391.84
+225,A segurança de inovar naturalmente,Cozinha,460.49
+226,A vantagem de concretizar seus projetos sem preocupação,Eletrônicos,273.77
+227,O direito de avançar antes de tudo,Eletrônicos,446.14
+228,A arte de realizar seus sonhos sem preocupação,Esportes,80.49
+229,A simplicidade de concretizar seus projetos mais facilmente,Cozinha,329.68
+230,A liberdade de inovar sem preocupação,Eletrônicos,402.59
+231,O prazer de realizar seus sonhos sem preocupação,Vestuário,352.16
+232,A arte de mudar mais rapidamente,Vestuário,52.7
+233,A arte de atingir seus objetivos direto da fonte,Vestuário,321.3
+234,A vantagem de inovar direto da fonte,Cozinha,179.31
+235,A vantagem de avançar com força total,Vestuário,121.68
+236,O direito de realizar seus sonhos com força total,Esportes,194.74
+237,O prazer de avançar simplesmente,Livros,128.96
+238,O prazer de concretizar seus projetos de maneira eficaz,Vestuário,112.11
+239,A possibilidade de inovar naturalmente,Livros,496.83
+240,A segurança de ganhar naturalmente,Esportes,250.99
+241,A certeza de atingir seus objetivos sem preocupação,Livros,308.29
+242,A certeza de ganhar mais rapidamente,Vestuário,13.36
+243,A certeza de mudar direto da fonte,Vestuário,182.84
+244,O prazer de atingir seus objetivos antes de tudo,Eletrônicos,109.46
+245,O direito de realizar seus sonhos com toda a tranquilidade,Vestuário,362.23
+246,A simplicidade de avançar em estado puro,Eletrônicos,409.43
+247,O direito de inovar sem preocupação,Livros,420.93
+248,A certeza de ganhar mais rapidamente,Esportes,228.47
+249,O conforto de mudar de maneira eficaz,Esportes,225.61
+250,O conforto de ganhar com força total,Esportes,259.06
+251,A segurança de ganhar mais rapidamente,Esportes,274.5
+252,O direito de inovar naturalmente,Esportes,193.03
+253,O direito de realizar seus sonhos antes de tudo,Vestuário,340.04
+254,A vantagem de avançar com confiança,Esportes,484.63
+255,A vantagem de concretizar seus projetos simplesmente,Esportes,217.92
+256,O conforto de avançar em estado puro,Eletrônicos,146.62
+257,A certeza de inovar com força total,Eletrônicos,299.34
+258,A segurança de ganhar antes de tudo,Livros,118.2
+259,O conforto de realizar seus sonhos mais rapidamente,Eletrônicos,54.15
+260,A vantagem de conseguir mais rapidamente,Esportes,92.89
+261,O direito de realizar seus sonhos em estado puro,Vestuário,313.16
+262,O prazer de mudar mais rapidamente,Cozinha,187.74
+263,O conforto de atingir seus objetivos simplesmente,Cozinha,225.84
+264,O conforto de realizar seus sonhos de maneira eficaz,Vestuário,150.61
+265,A liberdade de avançar em estado puro,Eletrônicos,317.26
+266,O direito de conseguir sem preocupação,Eletrônicos,484.91
+267,A certeza de conseguir simplesmente,Vestuário,439.36
+268,A segurança de mudar de maneira eficaz,Cozinha,213.4
+269,A possibilidade de realizar seus sonhos mais facilmente,Esportes,285.65
+270,A simplicidade de concretizar seus projetos naturalmente,Eletrônicos,208.98
+271,O conforto de realizar seus sonhos mais rapidamente,Livros,28.06
+272,O conforto de evoluir mais rapidamente,Livros,183.84
+273,A arte de evoluir simplesmente,Eletrônicos,494.65
+274,O conforto de atingir seus objetivos mais facilmente,Eletrônicos,99.59
+275,O prazer de concretizar seus projetos mais rapidamente,Livros,431.15
+276,A vantagem de evoluir mais facilmente,Vestuário,351.09
+277,O direito de mudar antes de tudo,Cozinha,222.48
+278,A liberdade de conseguir mais facilmente,Vestuário,288.88
+279,A vantagem de avançar naturalmente,Cozinha,53.57
+280,O prazer de mudar antes de tudo,Eletrônicos,247.79
+281,A vantagem de avançar naturalmente,Vestuário,156.01
+282,A vantagem de evoluir de maneira eficaz,Eletrônicos,92.68
+283,A certeza de inovar mais rapidamente,Cozinha,135.27
+284,O direito de ganhar com confiança,Vestuário,188.94
+285,A certeza de ganhar mais rapidamente,Eletrônicos,137.45
+286,O direito de concretizar seus projetos de maneira eficaz,Eletrônicos,221.77
+287,O conforto de inovar simplesmente,Cozinha,154.82
+288,O direito de inovar com toda a tranquilidade,Livros,257.37
+289,A possibilidade de realizar seus sonhos com toda a tranquilidade,Cozinha,117.5
+290,A vantagem de mudar de maneira eficaz,Eletrônicos,104.21
+291,A liberdade de conseguir mais facilmente,Eletrônicos,105.71
+292,A vantagem de evoluir mais facilmente,Livros,285.69
+293,A simplicidade de avançar naturalmente,Cozinha,37.29
+294,O conforto de mudar mais rapidamente,Livros,250.45
+295,A possibilidade de atingir seus objetivos naturalmente,Esportes,100.11
+296,O poder de mudar direto da fonte,Esportes,495.46
+297,A possibilidade de concretizar seus projetos mais facilmente,Eletrônicos,65.99
+298,O prazer de conseguir com força total,Cozinha,239.34
+299,A liberdade de inovar direto da fonte,Vestuário,450.67
+300,A certeza de evoluir mais rapidamente,Vestuário,463.38
